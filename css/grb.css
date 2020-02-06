@@ -522,7 +522,7 @@ a.opennav {
 
 	/* SUBPAGE NAVIGATION */
 	.subpage #navigation {
-		background-color: #000; /* Black*/
+		background-color: #000;
 		border: none;
 		border-radius: 0;
 		height: 100%; /* 100% Full-height */
